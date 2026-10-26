@@ -2,6 +2,9 @@
 
 This is my personal project.
 
+##Environment
+- Host: MacBook - Apple Silicon
+- Target: Windows 10 
 
 
 Phase 1 — Establish your lab. Prepare Windows, document your hardware and software, and establish controlled connectivity between the two computers.
