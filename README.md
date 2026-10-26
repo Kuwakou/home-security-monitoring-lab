@@ -2,7 +2,7 @@
 
 This is my personal project.
 
-##Environment##
+## Environment
 - Host: MacBook - Apple Silicon
 - Target: Windows 10 
 
